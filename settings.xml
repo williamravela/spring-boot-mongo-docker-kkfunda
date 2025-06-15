@@ -2,7 +2,7 @@
   <servers>
     <server>
       <id>nexus</id>
-      <username>${env.NEXUS_CREDENTIALS_USR}</admin>
+      <username>${env.NEXUS_CREDENTIALS_USR}</username>
       <password>${env.NEXUS_CREDENTIALS_PSW}</password>
     </server>
   </servers>
