@@ -1,0 +1,9 @@
+<settings>
+  <servers>
+    <server>
+      <id>nexus</id>
+      <username>${env.NEXUS_CREDENTIALS_USR}</admin>
+      <password>${env.NEXUS_CREDENTIALS_PSW}</password>
+    </server>
+  </servers>
+</settings>
