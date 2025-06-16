@@ -1,1 +1,7 @@
+<distributionManagement>
+    <repository>
+        <id>webbapp</id>
+        <url>http://54.84.7.188:8081/repository/webbapp</url>
+    </repository>
+</distributionManagement>
 
